@@ -1,6 +1,6 @@
-# React Parcel Starter Box
+# React Parcel Starter Kit with React Router
 
-This repository is a starter template for React Apps using Parcel Bundler 
+This repository is a starter template for React Apps using Parcel Bundler and React Router 
 
 ## How to Use
 
